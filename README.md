@@ -1,5 +1,4 @@
 # Tabs
-
 Create a user-friendly tabs section that allows users to click on different tabs to view their respective content. This interactive feature enhances the user's ability to navigate and access information efficiently.
 
 ![Tabs Section Preview](https://github.com/somayehva/Tabs/blob/main/Tabs.png)
